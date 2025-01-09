@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\obj\Debug\netcoreapp3.1\MultiThreadingTPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\obj\Debug\netcoreapp3.1\MultiThreadingTPL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\obj\Debug\netcoreapp3.1\MultiThreadingTPL.AssemblyInfo.cs
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\obj\Debug\netcoreapp3.1\MultiThreadingTPL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\obj\Debug\netcoreapp3.1\MultiThreadingTPL.sourcelink.json
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\bin\Debug\netcoreapp3.1\MultiThreadingTPL.exe
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\bin\Debug\netcoreapp3.1\MultiThreadingTPL.deps.json
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\bin\Debug\netcoreapp3.1\MultiThreadingTPL.runtimeconfig.json
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\bin\Debug\netcoreapp3.1\MultiThreadingTPL.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\bin\Debug\netcoreapp3.1\MultiThreadingTPL.dll
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\bin\Debug\netcoreapp3.1\MultiThreadingTPL.pdb
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\obj\Debug\netcoreapp3.1\MultiThreadingTPL.dll
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\obj\Debug\netcoreapp3.1\MultiThreadingTPL.pdb
+C:\Users\HP\source\repos\MultiThreadingTPL\MultiThreadingTPL\obj\Debug\netcoreapp3.1\MultiThreadingTPL.genruntimeconfig.cache
