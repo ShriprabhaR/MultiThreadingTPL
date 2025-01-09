@@ -8,16 +8,16 @@ namespace MultiThreadingTPL
     {
         static void Main(string[] args)
         {
-            //Thread thread1 = new Thread(MultiThreading.PrintNumbers);
-            //Thread thread2 = new Thread(MultiThreading.PrintNumbers);
+            Thread thread1 = new Thread(MultiThreading.PrintNumbers);
+            Thread thread2 = new Thread(MultiThreading.PrintNumbers);
 
-            //thread1.Start();
-            //thread2.Start();
+            thread1.Start();
+            thread2.Start();
 
-            //thread1.Join();
-            //thread2.Join();
+            thread1.Join();
+            thread2.Join();
 
-            //Console.WriteLine("Both threads are completed");
+            Console.WriteLine("Both threads are completed");
             Console.WriteLine("Starting parallel processing...");
             TPL.ParallelProcessing();
 
@@ -26,17 +26,23 @@ namespace MultiThreadingTPL
 
             Console.WriteLine("Process completed");
 
+            AsyncAwait.CallMethod();
+
+            Task task = new Task(FileOperation.CallMethod);
+            task.Start();
+            task.Wait();
+            
         }
 
-        //static async Task Main()
-        //{
-        //    Task task1 = Task.Run(() => TPL.PrintNumbers());
-        //    Task task2 = Task.Run(() => TPL.PrintNumbers());
+        static async Task Main()
+        {
+            Task task1 = Task.Run(() => TPL.PrintNumbers());
+            Task task2 = Task.Run(() => TPL.PrintNumbers());
 
-        //    await Task.WhenAll(task1, task2);
+            await Task.WhenAll(task1, task2);
 
-        //    Console.WriteLine("Both threads are completed");
+            Console.WriteLine("Both threads are completed");
 
-        //}
+        }
     }
 }

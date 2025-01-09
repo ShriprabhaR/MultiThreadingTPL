@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiThreadingTPL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfb48e58364e0b6552e282748f371461a9ea622a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23b7a4cf5653279473b8e8b2be2c1cda3164962d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiThreadingTPL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiThreadingTPL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

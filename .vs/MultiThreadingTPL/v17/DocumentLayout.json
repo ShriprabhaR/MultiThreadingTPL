@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|c:\\users\\hp\\source\\repos\\multithreadingtpl\\multithreadingtpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|solutionrelative:multithreadingtpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|c:\\users\\hp\\source\\repos\\multithreadingtpl\\multithreadingtpl\\fileoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|solutionrelative:multithreadingtpl\\fileoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|c:\\users\\hp\\source\\repos\\multithreadingtpl\\multithreadingtpl\\asyncawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|solutionrelative:multithreadingtpl\\asyncawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|c:\\users\\hp\\source\\repos\\multithreadingtpl\\multithreadingtpl\\multithreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|solutionrelative:multithreadingtpl\\multithreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|c:\\users\\hp\\source\\repos\\multithreadingtpl\\multithreadingtpl\\tpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B84046B-676B-4D79-9F1C-F42ACF8FE5D0}|MultiThreadingTPL\\MultiThreadingTPL.csproj|solutionrelative:multithreadingtpl\\tpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TPL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\TPL.cs",
+              "RelativeDocumentMoniker": "MultiThreadingTPL\\TPL.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\TPL.cs",
+              "RelativeToolTip": "MultiThreadingTPL\\TPL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:27:23.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiThreading.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\MultiThreading.cs",
+              "RelativeDocumentMoniker": "MultiThreadingTPL\\MultiThreading.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\MultiThreading.cs",
+              "RelativeToolTip": "MultiThreadingTPL\\MultiThreading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:26:52.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreadingTPL\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\Program.cs",
+              "RelativeToolTip": "MultiThreadingTPL\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:25:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileOperation.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\FileOperation.cs",
+              "RelativeDocumentMoniker": "MultiThreadingTPL\\FileOperation.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\FileOperation.cs",
+              "RelativeToolTip": "MultiThreadingTPL\\FileOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:34:16.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsyncAwait.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\AsyncAwait.cs",
+              "RelativeDocumentMoniker": "MultiThreadingTPL\\AsyncAwait.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiThreadingTPL\\MultiThreadingTPL\\AsyncAwait.cs",
+              "RelativeToolTip": "MultiThreadingTPL\\AsyncAwait.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:48:29.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
